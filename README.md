@@ -11,3 +11,4 @@
 |   5  | [เกมส์ฝึกพิมเร็ว](https://github.com/cheevash/javascript-Project/tree/main/5%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7)|[Live Preview](https://66c011962e7977f69ee44d70--courageous-meerkat-03f9f5.netlify.app/)|
 |   6  | [text Reveal](https://github.com/cheevash/javascript-Project/tree/main/6%20text%20Reveal)|[Live Preview](https://dancing-travesseiro-4b5f32.netlify.app/)|
 |   7  | [โปรแกรมเครื่องคิดเลข](https://github.com/cheevash/javascript-Project/tree/main/7%20calculator)|[Live Preview](https://silver-scone-a9fc5b.netlify.app/)|
+|   8  | [ระบบกดเลิฟในเว็บไซต์](https://github.com/cheevash/javascript-Project/tree/main/8%20%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C)|[Live Preview](https://luminous-kitten-221f56.netlify.app/)|
