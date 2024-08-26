@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KanBan Board</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="main-title">แผนผังการทำงาน</h1>
+    <div class="drag-container">
+        <ul class="drang-list">
+          
+            <!--category 1 -->
+            <li class="drang-column backlog-column">
+                <span class="header">
+                    <h1>งานค้าง</h1>
+                </span>
+                <div class="custom-scroll" id="backlog-content">
+                    <ul class="drag-item-list" id="backlog-list">
+                        <li class="drag-item" draggable="true">ออกแบบ</li>
+                        <li class="drag-item" draggable="true">ส่งงาน</li>
+                        <li class="drag-item" draggable="true">เสนองาน</li>
+                        <li class="drag-item" draggable="true">ออกไปปพบลูกค้า</li>
+                    </ul>
+                </div>
+            </li>
+          
+            <!--category 2 -->
+            <li class="drang-column progress-column">
+                <span class="header">
+                    <h1>กำลังทำ</h1>
+                </span>
+                <div class="custom-scroll" id="progress-content">
+                    <ul class="drag-item-list" id="progress-list">
+                        <li class="drag-item" draggable="true">ออกแบบ</li>
+                        <li class="drag-item" draggable="true">logo</li>
+                        
+                    </ul>
+                </div>
+            </li>
+       
+            <!--category 3 -->
+            <li class="drang-column complete-column">
+                <span class="header">
+                    <h1>งานที่เสร็จแล้ว</h1>
+                </span>
+                <div class="custom-scroll" id="complete-content">
+                    <ul class="drag-item-list" id="complete-list"> </ul>
+                </div>
+            </li>
+       
+         
+            <!--category 4 -->
+            <li class="drang-column reject-column">
+                <span class="header">
+                    <h1>งานที่ไม่ผ่าน</h1>
+                </span>
+                <div class="custom-scroll" id="reject-content">
+                    <ul class="drag-item-list" id="reject-list"> </ul>
+                </div>
+            </li>     
+        
+       
+       
+       
+       
+       
+       
+       
+       
+        </ul>
+    </div>
+
+
+
+
+
+    <script src="app.js"></script>
+</body>
+</html>
