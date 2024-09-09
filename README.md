@@ -26,3 +26,5 @@
 |   20  | [local storge](https://github.com/cheevash/javascript-Project/tree/main/Workshop%2020%20local%20storge)|[Live Preview](https://66d6dada176d69fd7a411736--unique-lebkuchen-b01aa8.netlify.app/)|
 |   21  | [คำนวณระยะห่างของวัน](https://github.com/cheevash/javascript-Project/tree/main/Workshop%2021%20%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99)|[Live Preview](https://66d7b92861a09effdc640e7c--playful-raindrop-2d74a7.netlify.app/)|
 |   22  | [search Auto complete](https://github.com/cheevash/javascript-Project/tree/main/Workshop%2022%20search%20Auto%20complete)|[Live Preview](https://66d9019093eedb753e81b7d5--moonlit-druid-d86d9f.netlify.app/)|
+|   23  | [เกมส์ทายปัญหา](https://github.com/cheevash/javascript-Project/tree/main/Workshop%2023%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2)|[Live Preview](https://66de5838aa07a9a16e6f120f--incredible-belekoy-5889b9.netlify.app/)|
+
