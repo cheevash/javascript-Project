@@ -1,0 +1,187 @@
+:root{
+    --primary-color:#303366;
+    --secondary-color:red;
+    --modal-delay:1s;
+}
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+
+}
+
+nav {
+    background-color: var(--primary-color);
+    border-right: 2px solid rgba(200, 200, 200, 0.1);
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100vh;
+    z-index: 100;
+    transform: translateX(-100%);
+
+}
+nav .logo{
+    padding: 30px 0;
+    text-align: center;
+}
+
+nav .logo img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+nav ul{
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+}
+
+nav ul li{
+    border-bottom: 2px solid rgba(200, 200, 200, 0.1);
+    padding: 20px;
+}
+
+nav ul li a{
+   color: white;
+   text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: goldenrod;
+    text-decoration: underline;
+ }
+
+ header{
+    background-color: var(--primary-color);
+    color: white;
+    font-size: 190%;
+    position: relative;
+    text-align: center;
+    padding: 40px ;
+ }
+
+ header h1 {
+    margin: 0;
+ }
+
+ header p {
+    margin: 30px;
+ }
+
+button, input[type="submit"]{
+    background-color: var(--secondary-color);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    padding: 8px 12px;
+    cursor: pointer;
+
+}
+
+.toggle{
+    background: rgba(200, 200, 200, 0.2);
+    font-size: 25px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.create-account{
+    padding: 12px 30px;
+}
+
+.container {
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 800px;
+}
+
+body.show-nav{
+    transform: translateX(200px);
+}
+
+body{
+    transition: 0.3s;
+}
+
+.modal-container{
+    display: none;
+    background-color: rgba(200, 200, 200, 0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+}
+.modal{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(200, 200, 200, 0.3); 
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 100%;
+    width: 400px;
+}
+
+.modal-container.show-modal{
+    display: block;
+}
+
+.modal{
+    animation: modalOpen;
+    animation-duration: var(--modal-delay);
+}
+.modal-head{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 15px;
+}
+.modal-headh3{
+    margin: 0;
+}
+.modal-content{
+    padding: 20px;
+}
+
+.modal-content div{
+    margin: 15px 0;
+}
+
+.model-form label{
+    display: block;
+    margin-bottom: 5px;
+}
+.model-form input{
+    padding: 8px;
+    width: 100%;
+}
+.close-btn{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: transparent;
+    font-size: 25px;
+}
+
+
+
+
+@keyframes modalOpen{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
