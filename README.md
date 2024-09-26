@@ -31,3 +31,6 @@
 |   25  | [Menu Silder](https://github.com/cheevash/javascript-Project/tree/main/Workshop%2025%20Menu%20Silder)|[Live Preview](https://66e7e02168138cdb2d12227b--stellular-bubblegum-02bfe1.netlify.app/)|
 |   26  | [Speech To Text](https://github.com/cheevash/javascript-Project)|[Live Preview](https://66f4d0faaf79934346d09526--elegant-alfajores-84ec79.netlify.app/)|
 |   27  | [Expand Card Effect](https://github.com/cheevash/javascript-Project/tree/main/Workshop%2027%20Expand%20Card%20Effect)|[Live Preview](https://66f4dab5c1584c4c27f4d5fd--lovely-druid-df92a1.netlify.app/)|
+|   28  | [Product Scroll Animation](https://github.com/cheevash/javascript-Project/tree/main/Workshop%2028%20Product%20Scroll%20Animation)|[Live Preview](https://66f4deb07e5eaf4d09ab08c2--cool-sunflower-fae56a.netlify.app/)|
+|   29  | []()|[Live Preview]()|
+|   30  | []()|[Live Preview]()|
